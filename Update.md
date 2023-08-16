@@ -14,4 +14,8 @@ Things prices rise really fast while people's prices don't. Yesterday afternoom 
 
 Note: I took this picture from internet but it is exactly what I see everyday. In fact, this guy has some protection for his hands and the cart seems well design while the ones I see are much worse.
 
+-------------------
 
+Ten minutes ago I pushed this same file to GitHub to share what is happening right now in my country and one of those things was the US Dollary/AR pesos exchange rate. Well, I press F5 and this is the latest exchange rate:
+
+![image](./images/dolor-hoy-de-nuevo.png)
