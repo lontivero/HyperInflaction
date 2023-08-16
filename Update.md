@@ -1,6 +1,6 @@
 # Update
 
-Almost three years ago I wrote an [introduction](./1. Introduction.md) where I said that the inflation was around fifty percent and that the hyperinflation was around the corner. Today, the inflation is about one hundred sixty percent (but nodoby really knows). The first lesson is that crisis are not easily predictable in the sense that you know that system is self destroying and cannot work but you never know for long it can continuing imploding.
+Almost three years ago I wrote an [introduction](./1. Introduction.md) where I said that the inflation was around fifty percent and that the hyperinflation was around the corner. Today, the inflation is about one hundred sixty percent (but nodoby really knows). The first lesson is that crisis are not easily predictable in the sense that you know that system is self destroying and cannot work but you never know for how long it can continuing imploding.
 
 The gasoline price increased three time this week, before yesterday, yesterday and today again. The US Dollar/AR pesos exchange rate changes every single days since two months now, just one week ago you could by one UD Dollar with five hundred ninty three pesos, yesteday you had to pay seven hundred fourty pesos. However, according to my arbolito friend (the guy that buys and sells dollars, pesos, crypto, etc) nobody is selling US Dollars and that's why the exchange rate published work only as a reference but he doesn't sell dollars at that rate.
 
